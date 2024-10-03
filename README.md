@@ -18,8 +18,6 @@ For more details on contributing and collaborating with the Python community, vi
 
 We adhere to the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/). To foster an inclusive, respectful environment, please ensure you read and follow the code of conduct when engaging with the community.
 
-For more information, see the [Code of Conduct FAQ](https://www.python.org/psf/codeofconduct/faq/).
-
 ---
 
 Feel free to get involved, contribute, and make a difference with Python!
